@@ -1,2 +1,2 @@
 # AdventOfCode
-Monorepo containing all advent of code from 2021 onwards
+Monorepo containing all Advent of Code from 2021 onwards
