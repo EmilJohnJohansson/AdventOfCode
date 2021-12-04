@@ -1,0 +1,1 @@
+python binary_diagnostics.py example.txt
